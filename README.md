@@ -1,1 +1,3 @@
 # Analysemodel
+
+Byg den.
